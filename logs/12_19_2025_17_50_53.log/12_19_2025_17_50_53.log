@@ -1,0 +1,10 @@
+[ 2025-12-19 17:50:55,067 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-12-19 17:50:55,073 ] 97 werkzeug - INFO -  * Debugger PIN: 141-163-390
+[ 2025-12-19 17:50:59,011 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 17:50:59] "GET / HTTP/1.1" 200 -
+[ 2025-12-19 17:50:59,051 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 17:50:59] "[36mGET /static/css/index_style.css HTTP/1.1[0m" 304 -
+[ 2025-12-19 17:50:59,255 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 17:50:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-12-19 17:51:17,179 ] 53 root - INFO - Entered the load_object method of MainUtils class
+[ 2025-12-19 17:51:17,255 ] 59 root - INFO - Exited the load_object method of MainUtils class
+[ 2025-12-19 17:51:17,313 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 17:51:17] "POST /predict HTTP/1.1" 200 -
+[ 2025-12-19 17:51:20,625 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 17:51:20] "GET / HTTP/1.1" 200 -
+[ 2025-12-19 17:51:20,655 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 17:51:20] "[36mGET /static/css/index_style.css HTTP/1.1[0m" 304 -

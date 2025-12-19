@@ -1,0 +1,14 @@
+[ 2025-12-18 13:45:43,251 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-12-18 13:45:43,256 ] 97 werkzeug - INFO -  * Debugger PIN: 141-163-390
+[ 2025-12-18 13:45:46,026 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:45:46] "GET / HTTP/1.1" 200 -
+[ 2025-12-18 13:45:46,071 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:45:46] "[36mGET /static/css/index_style.css HTTP/1.1[0m" 304 -
+[ 2025-12-18 13:46:14,091 ] 53 root - INFO - Entered the load_object method of MainUtils class
+[ 2025-12-18 13:46:14,192 ] 59 root - INFO - Exited the load_object method of MainUtils class
+[ 2025-12-18 13:46:14,243 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:46:14] "POST /predict HTTP/1.1" 200 -
+[ 2025-12-18 13:46:18,083 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:46:18] "GET / HTTP/1.1" 200 -
+[ 2025-12-18 13:46:18,384 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:46:18] "[36mGET /static/css/index_style.css HTTP/1.1[0m" 304 -
+[ 2025-12-18 13:46:31,937 ] 53 root - INFO - Entered the load_object method of MainUtils class
+[ 2025-12-18 13:46:32,018 ] 59 root - INFO - Exited the load_object method of MainUtils class
+[ 2025-12-18 13:46:32,036 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:46:32] "POST /predict HTTP/1.1" 200 -
+[ 2025-12-18 13:46:34,063 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:46:34] "GET / HTTP/1.1" 200 -
+[ 2025-12-18 13:46:34,158 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 13:46:34] "[36mGET /static/css/index_style.css HTTP/1.1[0m" 304 -
